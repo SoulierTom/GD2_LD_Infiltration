@@ -1,0 +1,14 @@
+[7296:19532:0410/145006.038:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7296:25980:0410/145006.137:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7296:19532:0410/145006.148:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7296:31344:0410/145006.157:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory D:\Unreal Engine\SurvivalRPGEngine\Saved\webcache_6613\Default\Cache\Cache_Data: Accès refusé. (0x5)
+[7296:31344:0410/145006.157:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory D:\Unreal Engine\SurvivalRPGEngine\Saved\webcache_6613\Default\Shared Dictionary: Accès refusé. (0x5)
+[7296:31344:0410/145006.162:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory D:\Unreal Engine\SurvivalRPGEngine\Saved\webcache_6613\Default\Network: Accès refusé. (0x5)
+[7296:2764:0410/145006.171:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory D:\Unreal Engine\SurvivalRPGEngine\Saved\webcache_6613\Default\Safe Browsing Network: Accès refusé. (0x5)
+[7296:19532:0410/145009.186:ERROR:network_service_instance_impl.cc(286)] Encountered error while migrating network context data or granting sandbox access for D:\Unreal Engine\SurvivalRPGEngine\Saved\webcache_6613\Default\Network. Result: 11: Paramètre incorrect. (0x57)
+[7296:19532:0410/145009.188:ERROR:network_service_instance_impl.cc(286)] Encountered error while migrating network context data or granting sandbox access for D:\Unreal Engine\SurvivalRPGEngine\Saved\webcache_6613\Default\Safe Browsing Network. Result: 11: L’opération a réussi. (0x0)
+[27408:20748:0410/145010.560:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-68B28116FE1A8292F344315FD17A681B will be ignored
+[7296:27776:0410/145014.524:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18132:31612:0410/145813.257:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18132:31612:0410/145851.888:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7296:19532:0410/154023.453:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
